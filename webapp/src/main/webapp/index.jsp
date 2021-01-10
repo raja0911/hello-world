@@ -4,8 +4,4 @@
 <h1> goose --bumpoooooooooos----bumps</h1>
 <h1>India won the 2nd and 3rd tests</h2>
 <h1>143 India</h1>
-<h1>Yahooooooooooooo--------------00000000000000000 i am happy that i completed this devops project</h1>
-<h1>Yahooooooooooooo---------555555555 i am happy that i completed this devops project</h1>
-
-<h1>Yahooooooooooooo--------1111111111 i am happy that i completed this devops project</h1>
 
